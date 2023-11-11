@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OnboardingSampleCompose</string>
+
+    <string name="finish">Finish</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="home">Home</string>
+
+    <string name="onboarding_title_1">Welcome to Onboarding Sample</string>
+    <string name="onboarding_title_2">Onboarding Sample</string>
+    <string name="onboarding_title_3">Onboarding Sample</string>
+
+    <string name="onboarding_description_1">This is a sample onboarding screen</string>
+    <string name="onboarding_description_2">This is a sample onboarding screen</string>
+    <string name="onboarding_description_3">This is a sample onboarding screen</string>
+</resources>
